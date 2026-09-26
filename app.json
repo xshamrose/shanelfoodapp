@@ -1,17 +1,19 @@
 {
   "expo": {
-    "name": "shanelapp",
-    "slug": "shanelapp",
+    "name": "Shanel Foods",
+    "slug": "shanel-foods",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "backgroundColor": "#FFF9F4",
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.shanelfoods.app",
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#FFEDE0",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
